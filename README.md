@@ -106,122 +106,6 @@ Helping students from **Class 3 to Class 12** strengthen their academic foundati
 
 ---
 
-# 🏆 Competitive Programming
-
-Programming has always been my strongest passion.
-
-### ⭐ Codeforces Specialist
-
-👤 **Username:** `goldensakib`
-
-### Highlights
-
-* ⭐ Codeforces Specialist
-* ✅ Solved **800+** programming problems
-* 🧠 Strong understanding of Data Structures & Algorithms
-* 💪 Regular programming contest participant
-* 🚀 Passionate about algorithmic problem solving
-
----
-
-# 🛠 Tech Stack
-
-## 💻 Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,php,javascript,typescript"/>
-
-</p>
-
----
-
-## 🎨 Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap"/>
-
-</p>
-
----
-
-## ⚙ Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
-</p>
-
----
-
-## 🗄 Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
-
-</p>
-
----
-
-## ☁ Cloud & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify,render,cloudflare"/>
-
-</p>
-
----
-
-## 🤖 Python & AI
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv"/>
-
-</p>
-
-YOLOv8 • Streamlit • Computer Vision • AI Automation
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sakibhasan017&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sakibhasan017&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibhasan017&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakibhasan017&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-> ### 💡 *"I believe great software isn't just about writing code — it's about solving real problems, creating meaningful experiences, and continuously learning."*
-
----
-
 
 ## 🚀 Tech Stack
 
@@ -269,6 +153,45 @@ YOLOv8 • Streamlit • Computer Vision • AI Automation
 
 ---
 
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sakibhasan017&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=sakibhasan017&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibhasan017&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakibhasan017&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+> ### 💡 *"I believe great software isn't just about writing code — it's about solving real problems, creating meaningful experiences, and continuously learning."*
+
+---
+
+
+
+
+---
+
 # 🏆 Competitive Programming
 
 💙 Competitive programming has been a huge part of my journey as a developer.
@@ -283,59 +206,18 @@ YOLOv8 • Streamlit • Computer Vision • AI Automation
 <img src="https://img.shields.io/badge/Codeforces-Specialist-blue?style=for-the-badge&logo=codeforces"/>
 </a>
 
-<a href="https://codechef.com/users/goldensakib">
+<a href="https://codechef.com/users/sakibhasan016">
 <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef"/>
 </a>
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/sakibhasan016/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 </p>
 
 ---
 
-# 💼 Professional Experience
 
-### 🌐 Senior Webmaster
-
-**IEEE BUP Student Branch**
-
-📅 2023 – Present
-
-* Maintain official IEEE website
-* Technical support for executive committee
-* Organized IEEE Branchfest
-* Website management & updates
-
----
-
-### 👨‍🏫 Private Tutor
-
-📅 2020 – Present
-
-Teaching:
-
-* Physics
-* Chemistry
-* Mathematics
-* Biology
-
-Students:
-**Class 3 → HSC**
-
----
-
-# 🎓 Education
-
-## Bangladesh University of Professionals (BUP)
-
-**B.Sc. in Information & Communication Technology**
-
-📅 2022 – Present
-
-🎖 CGPA: **3.93 / 4.00**
-
----
 
 # 🏅 Certifications & Achievements
 
@@ -451,6 +333,19 @@ A hospital management website with secure authentication, appointment handling, 
 
 `Next.js` `MongoDB` `Tailwind CSS` `NextAuth`
 
+**Key Features**
+
+- Patient Appointment Booking
+- Doctor & Department Management
+- Secure User Authentication
+- Google Sign-In
+- Admin Dashboard
+- Hospital Services Management
+- Email Notifications
+- Medical Information Portal
+- Responsive Design
+- Content Management System
+
 ---
 
 ### 🌍 Higher Education Abroad Portal
@@ -461,80 +356,21 @@ A web platform that helps students explore universities abroad while allowing ad
 
 `PHP` `MySQL` `JavaScript`
 
----
+**Key Features**
 
-## 🏆 Achievements & Certifications
-
-🥇 **Codeforces Specialist**
-
-- Competitive Programmer
-- 800+ Problems Solved
-
-🏅 **Shohoj Coding — Eid Salami Contest 2026**
-
-**7th Place**
-
-🏅 **InterviewQuest Explorer**
-
-Top 50 (Bronze Honor)
-
-🎓 **Harvard University**
-
-CS50's Introduction to Programming with Python
-
-🛡️ **Cisco Networking Academy**
-
-Introduction to Cybersecurity
-
-💻 Programming Contest Participant
-
-- MIST Programming Contest
-- INTRA BUP TechSurgence
-- Multiple University Programming Contests
+- University Search & Filtering
+- Student Dashboard
+- Parent Dashboard
+- Admin Management Panel
+- University Application System
+- Application Status Tracking
+- Admission Notifications
+- User Authentication
+- University Information Management
+- Responsive User Interface
 
 ---
 
-## 📊 GitHub Analytics
-
-> These cards will automatically appear once GitHub generates enough public contribution data.
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sakibhasan017&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sakibhasan017&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibhasan017&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-> If trophies are unavailable, GitHub simply won't display them.
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sakibhasan017&theme=algolia&no-frame=true&margin-w=12&margin-h=12"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakibhasan017&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
 
 ## 🌐 Connect With Me
 
