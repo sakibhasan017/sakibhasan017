@@ -1,89 +1,526 @@
-# Hi there 👋, I'm Sakib Hasan
-
 <div align="center">
 
-### 💻 Full Stack Web Developer | 🇧🇩 Bangladesh
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/> Hi there, I'm **Sakib Hasan**
 
-<p>
-Passionate about building modern, scalable and user-friendly web applications with clean code and great user experience.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Full-Stack+Web+Developer;Competitive+Programmer+(Codeforces+Specialist);ICT+Student+at+BUP;Python+%26+AI+Explorer;Building+Software+That+Solves+Real+Problems" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+TypeScript;Always+Learning+Something+New;Welcome+to+My+GitHub+Profile!" />
+<br>
+
+<a href="mailto:hassansakib512@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-of-sakib.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sakibhasan017">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://codeforces.com/profile/goldensakib">
+<img src="https://img.shields.io/badge/Codeforces-Specialist-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=sakibhasan017&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-* 🎓 Honors Student at **Bangladesh University of Professionals (BUP)**
-* 💼 Completed **Industrial Attachment (2 Months Internship)** at **Fiber@Home**
-* 🌍 Living in **Savar, Dhaka, Bangladesh**
-* 💻 Passionate about Full Stack Web Development
-* 🌱 Currently learning advanced backend architecture, performance optimization and scalable application development.
-* ⚡ I enjoy solving real-world problems through technology.
-* ⚽ Football is my favorite sport, although I don't always get enough time to play.
-* 📱 I also enjoy exploring social media and keeping up with the latest technology trends.
+I'm **Sakib Hasan**, an undergraduate student in **Information & Communication Technology (ICT)** at **Bangladesh University of Professionals (BUP)**.
+
+I enjoy building **modern, scalable, and user-friendly web applications** that solve practical problems. My programming journey began with **Competitive Programming**, where I developed strong analytical thinking and problem-solving skills. Today, I apply those same skills to designing full-stack applications, REST APIs, dashboards, business tools, and AI-powered software.
+
+Beyond web development, I'm actively exploring **Python**, **Computer Vision**, and **Agentic AI** to build intelligent software for the future.
 
 ---
 
-## 🌐 Portfolio
+## 🚀 Current Focus
 
-🔗 **Portfolio Website**
-
-**https://portfolio-of-sakib.netlify.app/**
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-</p>
+* 🌐 Full-Stack Web Development
+* 🧠 Problem Solving & Competitive Programming
+* 🤖 Agentic AI & Automation
+* 🐍 Python Development
+* 👁️ Computer Vision with YOLOv8
+* ⚡ Clean UI/UX & Modern Software Architecture
 
 ---
 
-## 📊 GitHub Statistics
+# 🎓 Education
+
+### Bachelor of Science (B.Sc.)
+
+**Information & Communication Technology**
+
+**Bangladesh University of Professionals (BUP)**
+
+📅 **2022 – Present**
+
+🏆 **CGPA:** **3.93 / 4.00**
+
+---
+
+# 💼 Experience
+
+## 🌐 Senior Webmaster
+
+**IEEE BUP Student Branch**
+
+**2023 – Present**
+
+* Managed and maintained the official IEEE BUP Student Branch website.
+* Worked closely with executive members on technical operations.
+* Contributed to organizing **IEEE Branchfest 2025**.
+* Improved digital presence and web content management.
+
+---
+
+## 🏢 Industrial Attachment
+
+**Fiber@Home Ltd.**
+
+**Duration:** 2 Months
+
+* Gained practical industry experience in networking infrastructure.
+* Learned enterprise-level networking concepts and operations.
+* Worked with professionals to understand real-world IT environments.
+
+---
+
+## 📚 Private Tutor
+
+**2020 – Present**
+
+Teaching:
+
+* Mathematics
+* Physics
+* Chemistry
+* Biology
+* ICT
+
+Helping students from **Class 3 to Class 12** strengthen their academic foundations.
+
+---
+
+# 🏆 Competitive Programming
+
+Programming has always been my strongest passion.
+
+### ⭐ Codeforces Specialist
+
+👤 **Username:** `goldensakib`
+
+### Highlights
+
+* ⭐ Codeforces Specialist
+* ✅ Solved **800+** programming problems
+* 🧠 Strong understanding of Data Structures & Algorithms
+* 💪 Regular programming contest participant
+* 🚀 Passionate about algorithmic problem solving
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,php,javascript,typescript"/>
+
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap"/>
+
+</p>
+
+---
+
+## ⚙ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</p>
+
+---
+
+## 🗄 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
+
+</p>
+
+---
+
+## ☁ Cloud & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify,render,cloudflare"/>
+
+</p>
+
+---
+
+## 🤖 Python & AI
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv"/>
+
+</p>
+
+YOLOv8 • Streamlit • Computer Vision • AI Automation
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sakibhasan017&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sakibhasan017&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibhasan017&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakibhasan017&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+> ### 💡 *"I believe great software isn't just about writing code — it's about solving real problems, creating meaningful experiences, and continuously learning."*
+
+---
+
+
+## 🚀 Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,php" />
+</p>
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+</p>
+
+### ☁️ Cloud & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare" />
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
+
+---
+
+# 🏆 Competitive Programming
+
+💙 Competitive programming has been a huge part of my journey as a developer.
+
+* ⭐ **Codeforces Specialist**
+* 🧩 **800+ Problems Solved**
+* ⚡ Strong understanding of Algorithms & Data Structures
+* 🎯 Passionate about problem solving and optimization
+
+<p align="center">
+<a href="https://codeforces.com/profile/goldensakib">
+<img src="https://img.shields.io/badge/Codeforces-Specialist-blue?style=for-the-badge&logo=codeforces"/>
+</a>
+
+<a href="https://codechef.com/users/goldensakib">
+<img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+</p>
+
+---
+
+# 💼 Professional Experience
+
+### 🌐 Senior Webmaster
+
+**IEEE BUP Student Branch**
+
+📅 2023 – Present
+
+* Maintain official IEEE website
+* Technical support for executive committee
+* Organized IEEE Branchfest
+* Website management & updates
+
+---
+
+### 👨‍🏫 Private Tutor
+
+📅 2020 – Present
+
+Teaching:
+
+* Physics
+* Chemistry
+* Mathematics
+* Biology
+
+Students:
+**Class 3 → HSC**
+
+---
+
+# 🎓 Education
+
+## Bangladesh University of Professionals (BUP)
+
+**B.Sc. in Information & Communication Technology**
+
+📅 2022 – Present
+
+🎖 CGPA: **3.93 / 4.00**
+
+---
+
+# 🏅 Certifications & Achievements
+
+🥇 **Shohoj Coding Eid Salami Contest 2026**
+
+> 7th Place
+
+🥉 **InterviewQuest Explorer**
+
+> Bronze Honor (Top 50)
+
+🎓 **Harvard University**
+
+> CS50's Introduction to Programming with Python
+
+🛡 **Cisco Networking Academy**
+
+> Introduction to Cybersecurity
+
+🏆 **Programming Contest Participant**
+
+* MIST Programming Contest
+* INTRA BUP TechSurgence
+* Multiple University Programming Contests
+
+
+## 🚀 Featured Projects
+
+### 🛍️ MonRong — Modern Fashion E-Commerce Platform
+> A production-ready full-stack fashion e-commerce application with secure authentication, guest ordering, admin dashboard, image optimization, email verification, order tracking, reviews, favorites, and responsive design.
+
+**Tech Stack**
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `MongoDB` `JWT` `Nodemailer` `Cloudinary / B2 Storage`
+
+**Highlights**
+
+- Secure JWT Authentication
+- Email Verification & Password Reset
+- Guest Order Tracking
+- Product Reviews & Ratings
+- Favorites & Shopping Cart
+- Admin Dashboard
+- Order Management
+- Responsive UI
+- Modern Design System
+
+---
+
+### 🎓 University Resource Management System
+
+A full-stack platform that helps universities manage and distribute academic resources efficiently with role-based access control.
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `MongoDB` `Cloudinary`
+
+**Key Features**
+
+- Resource Upload & Management
+- Student Dashboard
+- Admin Dashboard
+- File Sharing
+- Notifications
+- Authentication
+
+🔗 Repository:
+https://github.com/sakibhasan017/University-Rosources-Management
+
+---
+
+### 🍔 HungryHut — Food Ordering & Management System
+
+A complete MERN-based food ordering platform with intelligent nutrition filtering, Stripe payment integration, user dashboard, and admin panel.
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `MongoDB` `Stripe`
+
+**Highlights**
+
+- Smart Nutrition Recommendation
+- JWT Authentication
+- Stripe Payment
+- Order Tracking
+- Admin Dashboard
+- Trending Food Analytics
+
+---
+
+### 🌱 Plant Disease Detection using YOLOv8
+
+AI-powered plant disease detection system capable of detecting multiple infected leaves while providing disease causes and treatment suggestions.
+
+**Tech Stack**
+
+`Python` `YOLOv8` `OpenCV` `Streamlit`
+
+**Highlights**
+
+- Multiple Disease Detection
+- AI Object Detection
+- Treatment Recommendation
+- Browser-based Interface
+
+---
+
+### 🏥 Golden Medical Hospital
+
+A hospital management website with secure authentication, appointment handling, and responsive UI.
+
+**Tech Stack**
+
+`Next.js` `MongoDB` `Tailwind CSS` `NextAuth`
+
+---
+
+### 🌍 Higher Education Abroad Portal
+
+A web platform that helps students explore universities abroad while allowing administrators to manage applications and institutions.
+
+**Tech Stack**
+
+`PHP` `MySQL` `JavaScript`
+
+---
+
+## 🏆 Achievements & Certifications
+
+🥇 **Codeforces Specialist**
+
+- Competitive Programmer
+- 800+ Problems Solved
+
+🏅 **Shohoj Coding — Eid Salami Contest 2026**
+
+**7th Place**
+
+🏅 **InterviewQuest Explorer**
+
+Top 50 (Bronze Honor)
+
+🎓 **Harvard University**
+
+CS50's Introduction to Programming with Python
+
+🛡️ **Cisco Networking Academy**
+
+Introduction to Cybersecurity
+
+💻 Programming Contest Participant
+
+- MIST Programming Contest
+- INTRA BUP TechSurgence
+- Multiple University Programming Contests
+
+---
+
+## 📊 GitHub Analytics
+
+> These cards will automatically appear once GitHub generates enough public contribution data.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sakibhasan017&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sakibhasan017&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibhasan017&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sakibhasan017&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibhasan017&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🏅 GitHub Trophies
+
+> If trophies are unavailable, GitHub simply won't display them.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=sakibhasan017&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sakibhasan017&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=sakibhasan017&theme=algolia&no-frame=true&margin-w=12&margin-h=12"/>
 
 </p>
 
@@ -93,62 +530,43 @@ Passionate about building modern, scalable and user-friendly web applications wi
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakibhasan017&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakibhasan017&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🌟 Featured Project
+## 🌐 Connect With Me
 
-### 🛍️ MonRong — Modern Fashion E-Commerce Platform
+<p align="center">
 
-A complete fashion e-commerce application built with modern web technologies.
+<a href="mailto:hassansakib512@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### Key Features
+<a href="https://portfolio-of-sakib.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-* Authentication System
-* Product Management
-* Admin Dashboard
-* Order Tracking
-* Guest Order Tracking
-* Review & Rating System
-* Wishlist
-* Shopping Cart
-* Responsive UI
-* Email Verification
-* Password Reset
-* Secure Authentication
-* MongoDB Database
-* Image Upload
-* Modern UI/UX
-
----
-
-## 🌍 Connect With Me
-
-<p>
-
-🌐 Portfolio: https://portfolio-of-sakib.netlify.app/
-
-📧 Email: [hassansakib512@gmail.com](mailto:your-email@example.com)
-
-💻 GitHub: https://github.com/sakibhasan017
+<a href="https://github.com/sakibhasan017">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </p>
 
 ---
 
-<div align="center">
+# 💬 Let's Build Something Amazing Together!
 
-### 💡 Favorite Quote
+I'm always open to:
 
-> **"Success doesn't come from what you do occasionally. It comes from what you do consistently."**
+- 🚀 Internship Opportunities
+- 🤝 Open Source Collaboration
+- 💼 Freelance Projects
+- 🏢 Full-Time Opportunities
+- 🧠 AI & Software Research
+- 🌍 Innovative Startup Ideas
 
----
+If you have an idea or project, feel free to reach out.
 
-⭐ If you like my projects, don't forget to leave a star!
-
-<img src="https://komarev.com/ghpvc/?username=sakibhasan017&style=for-the-badge&color=blue" />
-
-</div>
+⭐ If you like my work, consider following me and starring my repositories!
